@@ -1,2 +1,1 @@
-local LocalPlayer = Players.LocalPlayer
-LocalPlayer:kick("Down for maintence sorry.")
+game:GetService("Players").LocalPlayer:Kick("Down for maintenance sorry.")
